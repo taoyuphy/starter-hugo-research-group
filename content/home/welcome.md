@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "TaoYu Research Group"
+title: "Group for Dynamics of Quantum Materials"
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Wowchemy~~ Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2021.
+We are a theoretical group for the dynamics of quantum materials, focusing on 1) Magnetism: quasiparticle chiral interactions; nonlinear magnon transport. 2) Spintronics: many-body spin dynamics; various spin phenomena including spin Hall, spin pumping, and Seebeck effects. 3) Unconventional superconductivity: Keldysh formalism for ultrafast engineering; superconducting mechanism in moire system. 4) Semiconductor optics: valleytronics in monolayer TMDs; optical engineering of quantum states.
