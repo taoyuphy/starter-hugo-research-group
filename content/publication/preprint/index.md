@@ -1,7 +1,8 @@
 ---
 title: "An example preprint / working paper1"
-authors: "Tao yu"
+authors: 
 - admin
+- yutao
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
