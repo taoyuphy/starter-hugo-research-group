@@ -6,7 +6,7 @@ title: Tao Yu
 superuser: true
 
 # Role/position
-role: Professor of Physics
+role: Professor, Group Leader
 
 # Organizations/Affiliations
 organizations:
