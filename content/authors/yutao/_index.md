@@ -26,8 +26,7 @@ interests:
 education:
   courses:
   - course: Post-doctoral researcher 
-    institution: Max Planck Institute for
-the Structure and Dynamics of Matter, Germany
+    institution: Max Planck Institute for the Structure and Dynamics of Matter, Germany
     year: 2020.2-2021.8
   - course: ICC-IMR Young Fellow 
     institution: Institute for Materials Research, Tohoku University, Japan 
