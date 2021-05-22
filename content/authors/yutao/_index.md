@@ -14,12 +14,14 @@ organizations:
   url: "http://phys.hust.edu.cn/index.htm"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Magnetism, Spintronics, unconventional superconductivity and Quantum transport in low dimensional electronics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Magnetism
+- Spintronics
+- unconventional superconductivity
+- Quantum transport in low dimensional electronics
+- Strong light-matter interaction
 
 education:
   courses:
