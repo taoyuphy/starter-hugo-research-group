@@ -23,7 +23,7 @@ interests:
 - Quantum transport in low-dimensional electronics
 - Strong light-matter interaction
 
-education:
+education and experience:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
