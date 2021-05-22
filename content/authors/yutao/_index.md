@@ -67,6 +67,6 @@ highlight_name: false
 user_groups:
 - Professor
 ---
-Tao Yu is a professor of theoretical condensed matter physics, working in School of Physics at Huazhong University of Science and Technology. He leads the group for dynamics of quantum materials ranging from the unconventional superconductivity, magnetism to semiconductors. He has fun in developing theory for materials with solid experimental ground. His research interests include the distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Tao Yu is a Professor of Theoretical Condensed Matter Physics, working in School of Physics at Huazhong University of Science and Technology. He leads the group for dynamics of quantum materials ranging from the unconventional superconductivity, magnetism to semiconductors. He has fun in developing theory for materials with solid experimental ground with prediction and explanation power, reflecting in almost all of his publications. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
