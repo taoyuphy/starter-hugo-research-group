@@ -2,7 +2,7 @@
 title: "An example conference paper"
 authors:
 - admin
-- Robert Ford
+
 date: "2013-07-01T00:00:00Z"
 doi: ""
 

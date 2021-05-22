@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Group for Dynamics of Quantum Materials"
+title: "Yu's Group"
 subtitle: ""
 hero_media: welcome.jpg
 design:
