@@ -28,11 +28,11 @@ education:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+  - course: Post-doctoral researcher
+    institution: Kavli Institute of NanoScience, Delft University of Technology, the Netherlands
+    year: 2018.2-2020.1
   - course: PhD in Condensed Matter Theory
-    institution: University of Science and Technology of China
+    institution: Department of Physics, University of Science and Technology of China
     year: 2012.6-2018.4
 
 # Social/Academic Networking
