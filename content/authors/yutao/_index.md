@@ -67,6 +67,6 @@ highlight_name: false
 user_groups:
 - Professor
 ---
-Tao Yu is a Professor of Theoretical Condensed Matter Physics, working in School of Physics at Huazhong University of Science and Technology. He leads the group for dynamics of quantum materials ranging from the unconventional superconductivity, magnetism, correlated spin system to two-dimensional Van der Waals materials. He has wide interest in condensed matter theory and has particular fun in developing theory for materials with solid experimental ground, full of prediction and explanation power that has reflected in almost all of his publications. 
+Tao Yu is a Professor of Theoretical Condensed Matter Physics, working in School of Physics at Huazhong University of Science and Technology. He leads the group for dynamics of quantum materials ranging from the unconventional superconductivity, magnetism, correlated spin system to two-dimensional Van der Waals materials. He has wide interest in condensed matter theory, and has particular hobby in developing theory for phenomena with solid experimental ground, full of prediction and explanation power that have been reflected in almost all his publications. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
