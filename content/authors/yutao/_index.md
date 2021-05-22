@@ -25,9 +25,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: Post-doctoral researcher 
+    institution: Max Planck Institute for
+the Structure and Dynamics of Matter, Germany
+    year: 2020.2-2021.8
+  - course: ICC-IMR Young Fellow 
+    institution: Institute for Materials Research, Tohoku University, Japan 
+    year: 2019.8-2019.9
   - course: Post-doctoral researcher
     institution: Kavli Institute of NanoScience, Delft University of Technology, the Netherlands
     year: 2018.2-2020.1
