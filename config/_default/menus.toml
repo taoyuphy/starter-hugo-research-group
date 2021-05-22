@@ -33,7 +33,4 @@
   url = "contact"
   weight = 60
 
- [[Blog]]
-  name = "Contact"
-  url = "contact"
-  weight = 60 
+
