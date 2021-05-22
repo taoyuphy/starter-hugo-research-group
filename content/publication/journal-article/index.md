@@ -71,5 +71,3 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
 
----
-title: "Spin-Wave Doppler Shift by Magnon Drag in Magnetic Insulators"
