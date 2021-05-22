@@ -14,7 +14,7 @@ organizations:
   url: "http://phys.hust.edu.cn/index.htm"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Magnetism, Spintronics, unconventional superconductivity and Quantum transport in low dimensional electronics.
+bio: My research interests include Magnetism, Spintronics, Unconventional superconductivity, Quantum transport in low dimensional electronics, and Strong light-matter interaction.
 
 interests:
 - Magnetism
