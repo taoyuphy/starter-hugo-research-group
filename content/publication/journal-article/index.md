@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Spin-Wave Doppler Shift by Magnon Drag in Magnetic Insulators"
 authors:
 - yutao
 author_notes:
