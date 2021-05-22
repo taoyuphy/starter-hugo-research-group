@@ -72,4 +72,4 @@ Tao Yu is a Professor of Theoretical Condensed Matter Physics, working in School
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 
-There are multiple master and PhD graduate students,  visiting students, postdoctoral researcher and research associate position openings in my group. Please contact me via taoyuphy@mail.ustc.edu.cn if you are interested in joining my group.
+There are multiple master and PhD graduate students,  visiting students, postdoctoral researcher and research associate position openings in the group. Please contact me via taoyuphy@mail.ustc.edu.cn if you are interested in joining the group.
