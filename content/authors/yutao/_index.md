@@ -23,7 +23,7 @@ interests:
 - Quantum transport in low-dimensional electronics
 - Strong light-matter interaction
 
-education and experience:
+education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
@@ -31,9 +31,9 @@ education and experience:
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Condensed Matter Theory
+    institution: University of Science and Technology of China
+    year: 2012.6-2018.4
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
