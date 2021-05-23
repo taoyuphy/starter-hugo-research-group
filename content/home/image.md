@@ -22,7 +22,7 @@ design:
     image_darken: 0
     image_parallax: false
     image_position: smart
-    image_size: cover
+    #image_size: cover
     text_color_light: true
   spacing:
     padding: ["15px", "0", "15px", "0"]
