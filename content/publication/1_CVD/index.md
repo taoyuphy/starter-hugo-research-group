@@ -4,14 +4,16 @@ title: "Enhanced diamond nucleation on copper substrates by employing an electro
 authors:
 - X. Z. Liu 
 - yutao
-author_notes:
-- "Theory as an undergraduate"
-- "Theory as an undergraduate"
 - Q. P. Wei
 - Z. M. Yu
 - X. Y. Xu
 date: "2012-10-20T00:00:00Z"
 doi: ""
+
+author_notes:
+- yutao
+- "Theory as an undergraduate"
+- "Theory as an undergraduate"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
