@@ -1,5 +1,5 @@
 ---
-title: Our paper on PRL shows a speed limit of spins: Press release by Max Planck Institute for the structure and dynamics of matter
+title: Our paper on PRL shows a speed limit of spins, see press release by Max Planck Institute for the structure and dynamics of matter
 date: 2021-4-01
 ---
 
