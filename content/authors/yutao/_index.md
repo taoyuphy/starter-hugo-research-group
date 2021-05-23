@@ -36,7 +36,7 @@ education:
     year: 2018.2-2020.1
   - course: PhD in Condensed Matter Theory
     institution: Department of Physics, University of Science and Technology of China
-    year: 2012.6-2018.4
+    year: 2012.9-2018.4
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
