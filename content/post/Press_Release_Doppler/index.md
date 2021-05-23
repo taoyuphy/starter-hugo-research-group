@@ -7,4 +7,4 @@ Paper by Tao Yu*, Chen Wang, Michael Sentef and Gerrit E. W. Bauer: https://jour
 
 <!--more-->
 
-see press release  https://www.mpsd.mpg.de/536352/2021-03-yu-doppler?c=17189
+Please see press release at https://www.mpsd.mpg.de/536352/2021-03-yu-doppler?c=17189
