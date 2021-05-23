@@ -1,6 +1,5 @@
 ---
-title: "Theory of optical spectra and depolarization dynamics in bilayer
-WS2 from viewpoint of excimers"
+title: "Spin-Wave Doppler Shift by Magnon Drag in Magnetic Insulators"
 
 authors:
 - yutao
