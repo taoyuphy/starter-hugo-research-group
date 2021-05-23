@@ -1,6 +1,6 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Our paper on PRL shows a speed limit of spins
+date: 2021-4-01
 ---
 
 Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
