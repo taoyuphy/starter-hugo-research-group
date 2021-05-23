@@ -4,7 +4,7 @@ title: "Spin relaxation in ultracold spin-orbit coupled 40K gas"
 authors:
 - yutao
 - M. W. Wu
-date: "2012-10-20T00:00:00Z"
+date: "2013-10-22T00:00:00Z"
 doi: ""
 
 author_notes:
@@ -12,7 +12,7 @@ author_notes:
 - "Corresponding author"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2013-10-22T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,13 +21,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Colloids and Surface A: Physicochem. Eng. Aspects 412, 82 (2012)"
+publication: "Phys. Rev. A 88, 043634 (2013)"
 publication_short: ""
 
-abstract: Nanodiamond seeding is a well-established approach to enhancing the nucleation density in chemical vapor deposition (CVD) diamond growth. However, the effects of nanodiamond seeding are highly dependent upon the dispersion properties of nanodiamond particles, the solvent and the interaction between nanoparticles and substrate surfaces. Surface modification and fractionalization were employed to improve the dispersion of nanodiamond particles and separate those particles into a more narrow range of particle size. Mono-dispersed nanodiamonds with a ζ-potential and average particle size of −41.5 mV and ∼25.3 nm, respectively, were then obtained. They can be charged on copper substrate without any contaminations. Two-dimensional self-assemblies of nanodiamond seeding were actualized. The density and homogeneity of nanodiamond particles which act as pre-existing sp3 seeds shorten the incubation time of diamond nucleation to less than 30 min. High quality of 750 nm thick continuous diamond film was deposited on copper substrate in 60 min. Furthermore, we calculated electrostatic interaction energy between nanodiamond particle and copper substrate by using the nonlinear Poisson–Boltzmann theory, and discussed interaction energy of nanodiamond-Cu substrate and nanodiamond–nanodiamond in the seeding process. 
+abstract: We report the anomalous D'yakonov-Perel' spin relaxation in ultracold spin-orbit-coupled 40K gas when the coupling between states, acting as an effective Zeeman magnetic field, is much stronger than the spin-orbit coupled field. Both the transverse and longitudinal spin relaxations are investigated with small and large spin polarizations. It is found that with small spin polarization, the transverse (longitudinal) spin relaxation is divided into four (two) regimes, the normal weak scattering regime, the anomalous D'yakonov-Perel'-like regime, the anomalous Elliott-Yafet-like regime, and the normal strong scattering regime (the anomalous Elliott-Yafet-like regime and the normal strong scattering regime). With large spin polarization, we find that the Hartree-Fock self-energy, which acts as an effective magnetic field, can markedly suppress the transverse spin relaxation in both weak and strong scattering limits. Moreover, by noting that as both the momentum relaxation time and the Hartree-Fock effective magnetic field vary with the scattering length in cold atoms, the anomalous D'yakonov-Perel'-like regime is suppressed and the transverse spin relaxation is hence divided into three regimes in the scattering length dependence, the normal weak scattering regime, the anomalous Elliott-Yafet-like regime, and the strong scattering regime. On the other hand, the longitudinal spin relaxation is again divided into the anomalous Elliott-Yafet-like and normal strong scattering regimes. Furthermore, it is found that the longitudinal spin relaxation can be either enhanced or suppressed by the Hartree-Fock effective magnetic field if the spin polarization is parallel or antiparallel to the effective Zeeman magnetic field. 
 
 # Summary. An optional shortened abstract.
-summary: Nanodiamond seeding, nonlinear Poisson–Boltzmann theory.
+summary: cold atom, spin relaxation, anomalous D'yakonov-Perel' mechanism, Hartree-Fock field.
 
 tags:
 - Source Themes
@@ -35,7 +35,7 @@ featured: false
 
 links:
 - name: Paper Link
-  url: https://www.sciencedirect.com/science/article/abs/pii/S0927775712005079
+  url: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.88.043634
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 
 # Featured image
