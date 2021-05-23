@@ -89,7 +89,7 @@ phone = "+31 06 12104491"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Department of Physics at HUST", city = "Wuhan", region = "", postcode = "430074", country = "China", country_code = "CN"}
+address = {street = "School of Physics at HUST", city = "Wuhan", region = "", postcode = "430074", country = "China", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
