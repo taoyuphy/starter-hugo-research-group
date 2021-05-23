@@ -9,7 +9,7 @@ doi: ""
 
 author_notes:
 - 
-- "Theory as an undergraduate"
+- "Corresponding author"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
