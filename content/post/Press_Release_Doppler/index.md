@@ -3,7 +3,7 @@ title: Our paper on PRL shows a speed limit of spins, press release by Max Planc
 date: 2021-4-01
 ---
 
-Paper by Tao Yu, Chen Wang, Michael Sentef and Gerrit E. W. Bauer: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.137202 
+Paper by Tao Yu*, Chen Wang, Michael Sentef and Gerrit E. W. Bauer: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.137202 
 
 <!--more-->
 
