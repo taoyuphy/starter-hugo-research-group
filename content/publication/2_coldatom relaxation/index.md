@@ -2,11 +2,8 @@
 title: "Spin relaxation in ultracold spin-orbit coupled 40K gas"
 
 authors:
-- X. Z. Liu 
 - yutao
-- Q. P. Wei
-- Z. M. Yu
-- X. Y. Xu
+- M. W. Wu
 date: "2012-10-20T00:00:00Z"
 doi: ""
 
