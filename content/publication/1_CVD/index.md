@@ -2,12 +2,13 @@
 title: "Enhanced diamond nucleation on copper substrates by employing an electrostatic self-assembly seeding process with modified nanodiamond particles"
 authors:
 - X. Z. Liu 
-author_notes:
-- "Theory as an undergraduate"
 - yutao
 - Q. P. Wei
 - Z. M. Yu
 - X. Y. Xu
+- yutao
+author_notes:
+- "Theory as an undergraduate"
 date: "2012-10-20T00:00:00Z"
 doi: ""
 
