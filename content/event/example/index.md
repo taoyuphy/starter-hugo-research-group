@@ -17,7 +17,7 @@ abstract: "Chiral Spintronics is an emerging field that studies the structural (
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-21"
+date: "2021-06-21"
 date_end: "2021-06-24"
 all_day: false
 
