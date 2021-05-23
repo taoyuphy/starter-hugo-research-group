@@ -11,8 +11,7 @@ date: "2012-10-20T00:00:00Z"
 doi: ""
 
 author_notes:
-- yutao
-- "Theory as an undergraduate"
+- 
 - "Theory as an undergraduate"
 
 # Schedule page publish date (NOT publication's date).
