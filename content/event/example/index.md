@@ -1,8 +1,8 @@
 ---
-title: Example Event
+title: Invited Talk "Chiral Spintronics with magnetic insulators" on Sol-SkyMag 2021, Spain, June 21-24
 
 event: Wowchemy Conference
-event_url: https://example.org
+event_url: https://www.solskymag.es/
 
 location: Wowchemy HQ
 address:
