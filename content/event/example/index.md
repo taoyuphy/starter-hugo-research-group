@@ -12,7 +12,7 @@ location: San-Sebastian Spain
   #postcode: '94305'
   #country: Spain
 
-summary: Tao Yu is invited to present his series work on Chiral Spintronics.
+summary: Tao Yu is invited to present his series work about Chiral Spintronics in Sol-SkyMag 2021 conference.
 abstract: "Chiral Spintronics is an emerging field that studies the structural (static) and dynamical chirality in spintronics. For the dynamical chirality here, in the literature different terms are used to emphasize different aspects of the same thing. “Unidirectional” refers to the current direction, “chirality” is a fundamental symmetry property that governs this direction, while “nonreciprocity” is an asymmetry of mutual interactions in coherent systems by broken symmetries, of which unidirectionality is an extreme consequence. Here, the theory and experimental realization of dynamical chiral coupling among magnon, photon, phonon, and electron are summarized and explained universally. The novel dynamics adds functionality to downscaled spintronics devices, such as non-contact chiral pumping, unidirectional spin transport, chiral Seebeck, magnonic non-Hermitian skin effect, spin blockage/trap with perfect energy/spin transfer between two magnets, nonreciprocal level attraction, and phonon/magnon/microwave photon/electron spin diode effects."
 
 # Talk start and end times.
