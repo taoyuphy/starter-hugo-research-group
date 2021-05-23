@@ -1,5 +1,5 @@
 ---
-title: Invited Talk "Chiral Spintronics with magnetic insulators" on Sol-SkyMag 2021, Spain, June 21-24
+title: Invited Talk "Chiral Spintronics with magnetic insulators" on Sol-SkyMag 2021, San-Sebastian Spain, June 21-24 (2021)
 
 event: Wowchemy Conference
 event_url: https://www.solskymag.es/
