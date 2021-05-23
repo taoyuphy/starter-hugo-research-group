@@ -70,7 +70,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Professor
+- Principal Investigators
 ---
 Tao Yu (于涛) works in School of Physics at Huazhong University of Science and Technology (Wuhan, China) as a Professor of Theoretical Condensed Matter Physics and Doctoral Supervisor. He leads the group for dynamics of quantum materials, focusing on interesting theoretical problems among the magnetism, spintronics, unconventional superconductivity, correlated spin system, and many-body states in two-dimensional Van der Waals materials. He has wide interest in condensed matter theory, and has particular hobby in developing theory for amazing phenomena with solid experimental ground, which should be full of prediction and explanation powers that have been reflected in almost all his publications. 
 
