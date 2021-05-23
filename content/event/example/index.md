@@ -1,16 +1,16 @@
 ---
 title: Invited Talk "Chiral Spintronics with magnetic insulators" on Sol-SkyMag 2021, San-Sebastian Spain, June 21-24 (2021)
 
-event: Wowchemy Conference
+event: Sol-SkyMag 2021
 event_url: https://www.solskymag.es/
 
-location: Wowchemy HQ
+location: San-Sebastian Spain
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  #street: 450 Serra Mall
+  city: San-Sebastian Spain
+  #region: CA
+  #postcode: '94305'
+  country: Spain
 
 summary: Tao Yu is invited to present his series work on Chiral Spintronics.
 abstract: "Chiral Spintronics is an emerging field that studies the structural (static) and dynamical chirality in spintronics. For the dynamical chirality here, in the literature different terms are used to emphasize different aspects of the same thing. “Unidirectional” refers to the current direction, “chirality” is a fundamental symmetry property that governs this direction, while “nonreciprocity” is an asymmetry of mutual interactions in coherent systems by broken symmetries, of which unidirectionality is an extreme consequence. Here, the theory and experimental realization of dynamical chiral coupling among magnon, photon, phonon, and electron are summarized and explained universally. The novel dynamics adds functionality to downscaled spintronics devices, such as non-contact chiral pumping, unidirectional spin transport, chiral Seebeck, magnonic non-Hermitian skin effect, spin blockage/trap with perfect energy/spin transfer between two magnets, nonreciprocal level attraction, and phonon/magnon/microwave photon/electron spin diode effects."
@@ -30,9 +30,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
 
 #url_code: ""
 #url_pdf: ""
