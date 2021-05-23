@@ -25,8 +25,8 @@ content:
       # Enable CAPTCHA challenge to reduce spam?
   #    captcha: false
 
-design:
-  columns: '1'
+#design:
+#  columns: '1'
 ---
 
 There are multiple master and PhD graduate students (2), visiting student(1), postdoctoral researchers (2), and research associate position openings in Yu`s group. Please contact Prof. Yu via taoyuphy@mail.ustc.edu.cn if you are interested in joining the group.
