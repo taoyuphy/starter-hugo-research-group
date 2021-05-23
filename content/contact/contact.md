@@ -29,4 +29,4 @@ design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+There are multiple master and PhD graduate students (2), visiting student(1), postdoctoral researchers (2), and research associate position openings in Yu`s group. Please contact Prof. Yu via taoyuphy@mail.ustc.edu.cn if you are interested in joining the group.
