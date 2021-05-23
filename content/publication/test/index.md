@@ -1,5 +1,5 @@
 ---
-title: "PhD Dissertation: 半导体、冷原子、过渡金属硫化物及超导中自旋、谷极化及Bogoliubov准粒子的动力学研究"
+title: "(PhD Dissertation) 半导体、冷原子、过渡金属硫化物及超导中自旋、谷极化及Bogoliubov准粒子的动力学研究"
 authors: 
 - yutao
 date: "2017-10-30T00:00:00Z"
