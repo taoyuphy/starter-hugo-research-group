@@ -28,7 +28,7 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
+- name: Paper Link
   url: https://www.sciencedirect.com/science/article/abs/pii/S0927775712005079
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 
