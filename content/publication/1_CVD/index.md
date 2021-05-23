@@ -1,5 +1,5 @@
 ---
-title: "Enhanced diamond nucleation on copper substrates by employing an electrostatic self-assembly seeding process with modied nanodiamond particles"
+title: "An example preprint / working paper12"
 authors: 
 - yutao
 date: "2019-04-07T00:00:00Z"
