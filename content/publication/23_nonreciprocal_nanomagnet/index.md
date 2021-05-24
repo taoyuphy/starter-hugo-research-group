@@ -1,5 +1,5 @@
 ---
-title: "Nonreciprocal coherent coupling of nanomagnets by exchange spin waves"
+title: "Nonreciprocal coherent coupling of nanomagnets by exchange spin waves (cover paper)"
 
 authors:
 - Hanchen Wang
