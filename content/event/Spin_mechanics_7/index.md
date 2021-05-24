@@ -12,7 +12,7 @@ location: Gerolfingen Germany
   #postcode: '94305'
   #country: Spain
 
-summary: Tao Yu is invited to present his work about Unidirectional Pumping of Phonon by Magnetization Dynamics on Spin Mechanics VII conference.
+summary: Tao is invited to present his work about Unidirectional Pumping of Phonon by Magnetization Dynamics on Spin Mechanics VII conference.
 abstract: "To be available"
 
 # Talk start and end times.
