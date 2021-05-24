@@ -37,6 +37,9 @@ education:
   - course: PhD in Condensed Matter Theory
     institution: Department of Physics, University of Science and Technology of China
     year: 2012.9-2018.4
+    - course: Bachelor of Science
+    institution: School of Materials Science and Engineering, Central South University 
+    year: 2008.9-2012.6
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
