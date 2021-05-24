@@ -39,8 +39,7 @@ phononic, electronic, and photonic excitations in spintronics that mediate the e
 After a brief review of the concepts of chirality that characterize the molecular
 enantiomers, ground state chiral magnetic textures and chirally coupled magnets in
 spintronics, we turn to the chiral phenomena of excited states. We present a unified
-electrodynamic picture for dynamical chirality in spintronics and compare it with that in nano-optics and plasmonics. Based on the general theory, we subsequently review the
-theoretical progress and experimental evidence of chiral interaction between various
+electrodynamic picture for dynamical chirality in spintronics and compare it with that in nano-optics and plasmonics. Based on the general theory, we subsequently review the theoretical progress and experimental evidence of chiral interaction between various
 excitations in magnetic, photonic, electronic and phononic nanostructures at GHz time
 scales.
 
