@@ -1,6 +1,5 @@
 ---
-title: "Valley depolarization dynamics and valley Hall eect of exciton in
-mono- and bilayer MoS2"
+title: "Valley depolarization dynamics and valley Hall eect of exciton in mono- and bilayer MoS2"
 
 authors:
 - yutao
