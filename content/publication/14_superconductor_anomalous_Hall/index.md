@@ -1,5 +1,5 @@
 ---
-title: "Anomalous Hall eect in semiconductor quantum wells in proximity to chiral p-wave superconductors"
+title: "Anomalous Hall effect in semiconductor quantum wells in proximity to chiral p-wave superconductors"
 
 authors:
 - Fei Yang
