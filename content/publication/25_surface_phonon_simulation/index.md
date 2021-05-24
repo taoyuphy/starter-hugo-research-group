@@ -1,5 +1,5 @@
 ---
-title: "Non-reciprocal pumping of surface acoustic waves by spin wave resonances"
+title: "Non-reciprocal pumping of surface acoustic waves by spin wave resonances (Editors' Suggestion)"
 
 authors:
 - Kei Yamamoto 
