@@ -1,5 +1,5 @@
 ---
-title: Our joint experimental and theoretical paper on Science Advances demonstrates the chirality of microwave evanescent fields that can unidirectionally pump spin waves with a focusing due to the anisotropic dispersion, press release by Max Planck Institute for the Structure and Dynamics of Matter
+title: Our joint experimental and theoretical paper on Science Advances demonstrates the chirality of microwave evanescent fields that can unidirectionally pump spin waves with a focusing due to the anisotropic dispersion
 date: 2020-12-01
 ---
 
