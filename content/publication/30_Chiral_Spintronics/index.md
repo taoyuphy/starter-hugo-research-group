@@ -1,5 +1,5 @@
 ---
-title: "Chiral Spintronics"
+title: "Chiral Spintronics (long review article)"
 
 authors:
 - yutao
