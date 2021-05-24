@@ -12,7 +12,7 @@ doi: ""
 
 author_notes:
 - "Corresponding author"
-- "Contributed equally"
+- "Co-first author"
 -
 -
 -
