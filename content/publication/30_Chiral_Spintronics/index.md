@@ -46,7 +46,7 @@ featured: false
 
 links:
 - name: Paper Link
-url: https://www.journals.elsevier.com/physics-reports
+ url: https://www.journals.elsevier.com/physics-reports
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 
 # Featured image
