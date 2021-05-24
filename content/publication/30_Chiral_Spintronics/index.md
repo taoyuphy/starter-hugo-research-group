@@ -30,8 +30,7 @@ publication_types: ["2"]
 publication: "Physics Reports"
 publication_short: ""
 
-abstract: Chirality is a digital relation between three vectors that distinguishes an object from its mirror image, such as the spread fingers of the right and left hand. When the inversion symmetry is broken, spin-orbit interaction enforces the chirality of the ground magnetic states, which can be right or left handed, defined by the vectors of magnetization, its gradient, and electric field. This review focuses on a different class of chirality in the interaction between excitations by their electrodynamics, even when there is no spinorbit interaction. It is rooted in the coupling strength between quasiparticles that depends on the handedness of spin, momentum and surface normal vectors. We recently witnessed the discovery of various chiral interactions between magnetic, phononic, electronic, and photonic excitations in spintronics that mediate the excitation of quasiparticles into a single direction, leading to phenomena such as chiral spin and phonon pumping, chiral spin Seebeck, magnonic skin, magnon trap, magnon Doppler, and spin diode effects. Intriguing analogies with electric counterparts in the nano-optics and plasmonics exist. 
-After a brief review of the concepts of chirality that characterize the molecular enantiomers, ground state chiral magnetic textures and chirally coupled magnets in spintronics, we turn to the chiral phenomena of excited states. We present a unified electrodynamic picture for dynamical chirality in spintronics and compare it with that in nano-optics and plasmonics. Based on the general theory, we subsequently review the theoretical progress and experimental evidence of chiral interaction between various excitations in magnetic, photonic, electronic and phononic nanostructures at GHz time scales.
+abstract: 
 
 
 
