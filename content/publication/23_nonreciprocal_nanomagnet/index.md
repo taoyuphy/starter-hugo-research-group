@@ -43,7 +43,7 @@ author_notes:
 -
 -
 -
--
+- "Corresponding author"
 
 
 # Schedule page publish date (NOT publication's date).
