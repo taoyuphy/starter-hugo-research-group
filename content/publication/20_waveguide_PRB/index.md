@@ -1,5 +1,5 @@
 ---
-title: "Chiral coupling of magnons in waveguides"
+title: "Chiral coupling of magnons in waveguides (Editors' Suggestion)"
 
 authors:
 - yutao
