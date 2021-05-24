@@ -1,5 +1,5 @@
 ---
-title: "Hot-electron eect in spin relaxation of electrically injected electrons
+title: "Hot-electron effect in spin relaxation of electrically injected electrons
 in intrinsic Germanium"
 
 authors:
