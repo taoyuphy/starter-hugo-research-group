@@ -1,5 +1,5 @@
 ---
-title: "Quasiparticle spin relaxation with superconducting-velocity{tunable state in GaAs (100) quantum wells in proximity to s-wave superconductor"
+title: "Quasiparticle spin relaxation with superconducting-velocity tunable state in GaAs (100) quantum wells in proximity to s-wave superconductor"
 
 authors:
 - yutao
