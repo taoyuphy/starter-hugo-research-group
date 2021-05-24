@@ -1,5 +1,5 @@
 ---
-title: "Magnon trap by chiral spin pumping"
+title: "Magnon trap by chiral spin pumping (Editors' Suggestion)"
 
 authors:
 - yutao
