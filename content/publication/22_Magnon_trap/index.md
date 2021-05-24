@@ -3,11 +3,19 @@ title: "Magnon trap by chiral spin pumping"
 
 authors:
 - yutao
+- Hanchen Wang
+- Michael A. Sentef
+- Haiming Yu
+- Gerrit E. W. Bauer
 date: "2020-08-20T00:00:00Z"
 doi: ""
 
 author_notes:
 - "Corresponding author"
+- "Contributed equally"
+-
+-
+-
 
 
 # Schedule page publish date (NOT publication's date).
