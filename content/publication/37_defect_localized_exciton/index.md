@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Magnetically-Sensitive Valley Polarization Reversal and Revival of Defect-Localized Excitons in WSe2-WS2"
 
 authors:
 - Taishen Li
