@@ -26,7 +26,7 @@ publishDate: "2020-08-14T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Phys. Rev. Lett 125, 077203 (2020)"
+publication: "Phys. Rev. Lett **125**, 077203 (2020)"
 publication_short: ""
 
 abstract: We propose a method to control surface phonon transport by weak magnetic fields based on the pumping of surface acoustic waves (SAWs) by magnetostriction. We predict that the magnetization dynamics of a nanowire on top of a dielectric films injects SAWs with opposite angular momenta into opposite directions. Two parallel nanowires form a phononic cavity that at magnetic resonances pump a unidirectional SAW current into half of the substrate.
