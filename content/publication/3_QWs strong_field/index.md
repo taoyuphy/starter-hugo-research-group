@@ -23,7 +23,7 @@ publishDate: "2013-06-07T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Phys. Rev. B 87, 245304 (2013)"
+publication: "Phys. Rev. B **87**, 245304 (2013)"
 publication_short: ""
 
 abstract: We report an anomalous scaling of the Dyakonov-Perel spin relaxation with the momentum relaxation in semiconductor quantum wells under a strong magnetic field in the Voigt configuration. We focus on the case in which the external magnetic field is perpendicular to the spin-orbit-coupling–induced effective magnetic field and its magnitude is much larger than the latter one. It is found that the longitudinal spin relaxation time is proportional to the momentum relaxation time even in the strong-scattering limit, indicating that the Dyakonov-Perel spin relaxation demonstrates Elliott-Yafet-like behavior. Moreover, the transverse spin relaxation time is proportional (inversely proportional) to the momentum relaxation time in the strong- (weak-) scattering limit, both in the opposite trends against the well-established conventional Dyakonov-Perel spin relaxation behaviors. We further demonstrate that all the above anomalous scaling relations come from the unique form of the effective inhomogeneous broadening.
