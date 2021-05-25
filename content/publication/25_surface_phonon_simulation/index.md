@@ -33,7 +33,7 @@ publishDate: "2020-10-07T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "J. Phys. Soc. Jpn. 89, 113702 (2020)"
+publication: "J. Phys. Soc. Jpn. **89**, 113702 (2020)"
 publication_short: ""
 
 abstract: We predict that surface acoustic waves are generated preferentially in one direction in a heterostructure of a thin magnetic film on a non-magnetic substrate. The non-reciprocity arises from magneto-elastic coupling and magneto-rotation coupling, the former being dominant for YIG/GGG heterostructures. For YIG films thinner than about 100 nm, the surface acoustic wave amplitude is nearly unidirectional at certain angles of the in-plane equilibrium magnetisation. We compute the full magnetic field dependence of the effect for a selected device.
