@@ -32,7 +32,7 @@ publishDate: "2019-12-13T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Commun. Phys. 2, 161 (2019)"
+publication: "Commun. Phys. **2**, 161 (2019)"
 publication_short: ""
 
 abstract: A magnon, the collective excitation of ordered spins, can spontaneously radiate a travelling photon to an open system when decaying to the ground state. However, in contrast to electric dipoles, magnetic dipoles by magnons are more isolated from the environment, limiting their radiation and coherent communication with photons. The recent progresses in strongly coupled magnon-photon system have stimulated the manipulation of magnon radiation via tailoring the photon states. Here, by loading an yttrium iron garnet sphere in a one-dimensional waveguide cavity supporting both the travelling and standing photon modes, we demonstrate a significant magnon radiative damping that is proportional to the local density of photon states (LDOS). By modulating the magnitude and/or polarization of LDOS, we can flexibly tune the photon emission and magnon radiative damping. Our findings provide a way to manipulate photon emission from magnon radiation, which could help harness angular momentum generation, transfer, and storage in magnonics.
