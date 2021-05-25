@@ -2,7 +2,7 @@
 title: "Magnon trap by chiral spin pumping (Editors' Suggestion)"
 
 authors:
-- **yutao**
+- yutao
 - Hanchen Wang
 - Michael A. Sentef
 - Haiming Yu
@@ -28,7 +28,7 @@ publishDate: "2020-08-20T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Phys. Rev. B 102, 054429 (2020)"
+publication: "Phys. Rev. B **102**, 054429 (2020)"
 publication_short: ""
 
 abstract: Chiral spin pumping is the generation of a unidirectional spin current in half of ferromagnetic films or conductors by dynamic dipolar stray fields from close-by nanomagnets. We formulate a general theory of long-range chiral interactions between magnets mediated by unidirectional traveling waves, e.g., spin waves in a magnetic film or microwaves in a waveguide. The traveling waves emitted by an excited magnet can be perfectly trapped by a second, initially passive magnet by a dynamical interference effect. When both magnets are excited by a uniform microwave, the chiral interaction between them creates a large imbalance in their magnon numbers.
