@@ -28,7 +28,7 @@ publishDate: "2020-03-11T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Phys. Rev. B 101, 094414 (2020)"
+publication: "Phys. Rev. B **101**, 094414 (2020)"
 publication_short: ""
 
 abstract: We theoretically investigate the collective excitations of multiple (sub)millimeter-sized ferromagnets mediated by waveguide photons. By the position of the magnets in the waveguide, the magnon-photon coupling can be tuned to be chiral, i.e., magnons only couple with photons propagating in one direction, leading to an asymmetric transfer of angular momentum and energy between the magnets. A large enhancement of the magnon number population can be achieved at an edge of a long chain of magnets. The chain also supports standing waves with low radiation efficiency that are inert to the chirality.
