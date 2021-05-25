@@ -54,7 +54,7 @@ social:
  #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: 'https://www.researchgate.net/profile/Tao-Yu-10'
+  link: 'https://scholar.google.com/citations?user=z3bPDCIAAAAJ&hl=zh-CN'
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
