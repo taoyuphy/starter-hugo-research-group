@@ -6,10 +6,10 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Tao Yu Group@华中科技大学"
+title = "Tao Yu Lab@HUST"
 
-# The URL of your site.
-# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+#The URL of your site.
+# End your URL with a `/` trailing slash, e.g. `https://taoyulab.com/`.
 baseurl = ""
 
 # Enter a copyright notice to display in the site footer.

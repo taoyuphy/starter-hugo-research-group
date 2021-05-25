@@ -36,7 +36,10 @@ education:
     year: 2018.2-2020.1
   - course: PhD in Condensed Matter Theory
     institution: Department of Physics, University of Science and Technology of China
-    year: 2012.6-2018.4
+    year: 2012.9-2018.4
+  - course: Bachelor of Science 
+    institution: School of Materials Science and Engineering, Central South University   
+    year: 2008.9-2012.6
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,11 +73,11 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Professor
+- Principal Investigators
 ---
-Tao Yu is a Professor of Theoretical Condensed Matter Physics, working in School of Physics at Huazhong University of Science and Technology. He leads the group for dynamics of quantum materials, ranging from the unconventional superconductivity, magnetism, correlated spin system to two-dimensional Van der Waals materials. He has wide interest in condensed matter theory, and has particular hobby in developing theory for phenomena with solid experimental ground, which should be full of prediction and explanation power that have been reflected in almost all his publications. 
+Tao Yu (于涛) works in School of Physics at Huazhong University of Science and Technology (Wuhan, China) as a Professor of Theoretical Condensed Matter Physics and Doctoral Supervisor. He leads the group for dynamics of quantum materials, focusing on interesting theoretical problems among the magnetism, spintronics, unconventional superconductivity, correlated spin system, and many-body states in two-dimensional van der waals materials. He has wide interest in condensed matter theory, and has particular hobby in developing theory for amazing phenomena with solid experimental ground, which should be full of prediction and explanation powers that have been reflected in almost all his publications. 
 
-Life is short but full of adventure, so one has to choose suitable topics for his/her investigation to satisfy the curiosity. Prof. Yu`s research interests include 1) Unconventional superconductivity for topological properties, ultrafast engineering by Keldysh formalism, and superconducting mechanism in magic-angle twisted bilayer graphene; 2) Magnetism for chiral interactions between various quasiparticles, magnon nonlinear transport, spin-momentum locking of waves, and skymion topological dynamics; 3) Spintronics for many-body spin dynamics in semiconductor, graphene, and cold atoms, and various spin phenomena such as spin Hall, spin pumping and spin Seebeck effects; 4) Semiconductor optics for valley dynamics in mono- and bi-layer transition metal dichalcogenides, and optical engineering of quantum states. 
+Life is short but full of fascinating adventure, so one has to choose suitable and real important topics for his/her investigation to satisfy the curiosity. Prof. Yu`s research interests include 1) Unconventional superconductivity for topological properties, ultrafast engineering by Keldysh formalism, and superconducting mechanism in magic-angle twisted bilayer graphene; 2) Magnetism for chiral interactions between various quasiparticles, magnon nonlinear transport, spin-momentum locking of waves, and skymion topological dynamics; 3) Spintronics for many-body spin dynamics in semiconductor, graphene, and cold atoms, and various spin phenomena such as spin Hall, spin pumping, and spin Seebeck effects; 4) Semiconductor optics for exciton valley dynamics in mono- and bi-layer transition metal dichalcogenides, and optical engineering of quantum states. More information can be found in his Researchgate https://www.researchgate.net/profile/Tao-Yu-10.
 
 
-There are multiple master and PhD graduate students (2), visiting student(1), postdoctoral researchers (2), and research associate position openings in Yu`s group. Please contact Prof. Yu via taoyuphy@mail.ustc.edu.cn if you are interested in joining the group.
+There are multiple master and PhD graduate students (2), visiting student(1), postdoctoral researchers (2), and research associate position openings in Yu`s group. Please contact Prof. Yu via taoyuphy@mail.ustc.edu.cn if you have strong interest in condensed matter theory and are interested in joining the group. We provide competitive salary and comfortable work conditions.
