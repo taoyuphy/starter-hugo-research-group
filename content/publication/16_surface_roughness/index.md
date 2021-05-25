@@ -27,7 +27,7 @@ publishDate: "2019-05-02T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Phys. Rev. B 99, 174402 (2019)"
+publication: "Phys. Rev. B **99**, 174402 (2019)"
 publication_short: ""
 
 abstract: The chirality of magnetostatic Damon-Eshbach (DE) magnons affects the transport of energy and angular momentum at the surface of magnetic films and spheres. We calculate the surface-disorder-limited dephasing and transport lifetimes of surface modes of sufficiently thick high-quality ferromagnetic films such as yttrium iron garnet. Surface magnons are not protected by chirality, but interact strongly with smooth surface roughness. Nevertheless, for long-range disorder, the transport is much less affected by the suppressed backscattering (vertex correction). Moreover, in the presence of roughness, ferromagnetic resonance under a uniform microwave field can generate a considerable number of surface magnons.
