@@ -21,7 +21,7 @@ publishDate: "2014-05-12T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Phys. Rev. B 89, 205303 (2014)"
+publication: "Phys. Rev. B **89**, 205303 (2014)"
 publication_short: ""
 
 abstract: We investigate the valley depolarization due to the electron-hole exchange interaction in monolayer MoS2. Both the long- and short-range parts of the intra- and intervalley electron-hole exchange interactions are calculated. We find that both the long- and short-range exchange interactions can cause the inter- and intravalley bright exciton transitions. With the intravalley bright exciton transition channel nearly forbidden due to the large splitting of the valence bands, the intervalley channel due to the exchange interaction can cause the valley depolarization efficiently by the Maialle-Silva-Sham mechanism [Phys. Rev. B 47, 15776 (1993)]. With only the long-range exchange interaction, the calculations show good agreement with the recent valley polarization experiments, including the time-resolved valley polarization measurement, the pump-probe experiment, and the steady-state photoluminescence (PL) polarization measurement. We further show that for the A exciton with large (small) center-of-mass momentum, the long-range exchange interaction can cause the fast (slow) intervalley exciton transition.
