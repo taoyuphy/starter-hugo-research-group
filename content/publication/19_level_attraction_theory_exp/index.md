@@ -32,7 +32,7 @@ publishDate: "2019-12-23T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Phys. Rev. B 100, 214426 (2019)"
+publication: "Phys. Rev. B **100**, 214426 (2019)"
 publication_short: ""
 
 abstract: The dissipative light-matter coupling can cause the attraction of two energy levels, i.e., level attraction, when competing with the coherent coupling that induces usual Rabi-level splitting. The level attraction shows attractive potential for topological information processing. However, the underlying microscopic quantum mechanism of dissipative coupling still remains unclear although the behavior has been understood to root in the non-Hermitian physics, which brings difficulties in quantifying and manipulating the competition between coherence and dissipation and thereby the flexible control of level attraction. Here, by coupling a magnon mode to a cavity supporting both standing and traveling waves, we identify the traveling-wave state to be responsible for magnon-photon dissipative coupling. By characterizing the radiative broadening of a magnon linewidth, we quantify the coherent and dissipative coupling strengths and their competition. The effective magnon-photon coupling strength, as a net result of competition, is analytically presented using quantum theory to show good agreement with measurements. In this manner, we extend the control dimension of level attraction by tuning field torque on magnetization or global cavity geometry. Our findings provide insights on engineered coupled harmonic oscillator systems.
