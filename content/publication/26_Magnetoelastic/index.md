@@ -20,7 +20,7 @@ publishDate: "2020-10-13T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Phys. Rev. B 102, 134417 (2020)"
+publication: "Phys. Rev. B **102**, 134417 (2020)"
 publication_short: ""
 
 abstract: Motivated by recent experiments, we investigate the nonreciprocal magnetoelastic interaction between the surface acoustic phonons of dielectric nonmagnetic substrates and magnons of proximity nanomagnets. The magnetization dynamics exerts rotating forces at the edges of the nanomagnet that causes the nonreciprocal interaction with surface phonons due to its rotation-momentum locking. This coupling induces the nonreciprocity of the surface phonon transmission and a nearly complete phonon diode effect by several (tens of) magnetic nanowires of high (ordinary) magnetic quality. Phase-sensitive microwave transmission is also nonreciprocal that can pick up clear signals of the coherent phonons excited by magnetization dynamics. Nonreciprocal pumping of phonons by precessing magnetization is predicted using Landauer-Büttiker formalism.
