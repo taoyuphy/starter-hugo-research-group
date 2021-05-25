@@ -2,7 +2,7 @@
 title: "Magnon trap by chiral spin pumping (Editors' Suggestion)"
 
 authors:
-- yutao
+- **yutao**
 - Hanchen Wang
 - Michael A. Sentef
 - Haiming Yu
