@@ -21,7 +21,7 @@ publishDate: "2016-01-13T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Phys. Rev. B **93**, 045414 (2016)"
+publication: "**Phys. Rev. B** 93, 045414 (2016)"
 publication_short: ""
 
 abstract: We investigate the valley depolarization dynamics and valley Hall effect of exciton due to the electron-hole exchange interaction in mono- and bilayer MoS2 by solving the kinetic spin Bloch equations. The effect of the exciton energy spectra by the electron-hole exchange interaction is explicitly considered. For the valley depolarization dynamics, in the monolayer MoS2, it is found that in the strong scattering regime, the conventional motional narrowing picture in the conventional strong scattering regime is no longer valid, and a novel valley depolarization channel is opened. For the valley Hall effect of exciton, in both the mono- and bilayer MoS2, with the exciton equally pumped in the K and K' valleys, the system can evolve into the equilibrium state where the valley polarization is parallel to the effective magnetic field due to the exchange interaction. With the drift of this equilibrium state by applied uniaxial strain, the exchange interaction can induce the momentum-dependent valley/photoluminesence polarization, which leads to the valley photoluminesence Hall current. Specifically, the disorder strength dependence of the valley Hall conductivity is revealed. In the strong scattering regime, the valley Hall conductivity decreases with the increase of the disorder strength; whereas in the weak scattering regime, it saturates to a constant, which can be much larger than the one in Fermi system due to the absence of the Pauli blocking.
