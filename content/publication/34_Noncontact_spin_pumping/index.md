@@ -23,7 +23,7 @@ publishDate: "2020-06-08T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Phys. Rev. Lett **124**, 236801 (2020)"
+publication: "**Phys. Rev. Lett** 124, 236801 (2020)"
 publication_short: ""
 
 abstract: The angular momentum of evanescent light fields has been studied in nano-optics and plasmonics but not in the microwave regime. Here we predict noncontact pumping of electron spin currents in conductors by the evanescent stray fields of excited magnetic nanostructures. The coherent transfer of the photon to the electron spin is proportional to the g factor, which is large in narrow gap semiconductors and surface states of topological insulators. The spin pumping current is chiral when the spin susceptibility displays singularities that indicate collective states. However, 1D systems with linear dispersion at the Fermi energy, such as metallic carbon nanotubes, are an exception since spin pumping is chiral even without interactions.
