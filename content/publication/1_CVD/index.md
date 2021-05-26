@@ -12,7 +12,7 @@ doi: ""
 
 author_notes:
 - 
-- "Theory as an undergraduate"
+- "Theorist as an undergraduate"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -24,7 +24,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Colloids and Surface A: Physicochem. Eng. Aspects **412**, 82 (2012)"
+publication: "**Colloids and Surface A: Physicochem. Eng. Aspects** 412, 82 (2012)"
 publication_short: ""
 
 abstract: Nanodiamond seeding is a well-established approach to enhancing the nucleation density in chemical vapor deposition (CVD) diamond growth. However, the effects of nanodiamond seeding are highly dependent upon the dispersion properties of nanodiamond particles, the solvent and the interaction between nanoparticles and substrate surfaces. Surface modification and fractionalization were employed to improve the dispersion of nanodiamond particles and separate those particles into a more narrow range of particle size. Mono-dispersed nanodiamonds with a ζ-potential and average particle size of −41.5 mV and ∼25.3 nm, respectively, were then obtained. They can be charged on copper substrate without any contaminations. Two-dimensional self-assemblies of nanodiamond seeding were actualized. The density and homogeneity of nanodiamond particles which act as pre-existing sp3 seeds shorten the incubation time of diamond nucleation to less than 30 min. High quality of 750 nm thick continuous diamond film was deposited on copper substrate in 60 min. Furthermore, we calculated electrostatic interaction energy between nanodiamond particle and copper substrate by using the nonlinear Poisson–Boltzmann theory, and discussed interaction energy of nanodiamond-Cu substrate and nanodiamond–nanodiamond in the seeding process. 
