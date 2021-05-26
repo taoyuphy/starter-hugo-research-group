@@ -34,7 +34,7 @@ publishDate: "2020-02-05T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Phys. Rev. B **101**, 064404 (2020)"
+publication: "**Phys. Rev. B** 101, 064404 (2020)"
 publication_short: ""
 
 abstract: We systematically study the indirect interaction between a magnon mode and a cavity photon mode mediated by traveling photons of a waveguide. From a general Hamiltonian, we derive the effective coupling strength between two separated modes, and obtain the theoretical expression of the system's transmission. Accordingly, we design an experimental setup consisting of a shield cavity photon mode, a microstrip line, and a magnon system to test our theoretical predictions. From measured transmission spectra, indirect interaction, as well as mode hybridization, between two modes can be observed. All experimental observations support our theoretical predictions. In this work we clarify the mechanism of traveling photon mediated interactions between two separate modes. Even without spatial mode overlap, two separated modes can still couple with each other through their correlated dissipations into a mutual traveling photon bus. This conclusion may help us understand the recently discovered dissipative coupling effect in cavity magnonics systems. Additionally, the physics and technique developed in this work may benefit us in designing new hybrid systems based on the waveguide magnonics.
