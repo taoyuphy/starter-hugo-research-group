@@ -1,5 +1,5 @@
 ---
-title: "Excitation of unidirectional exchange spin waves by a nanoscale magnetic grating **(Editors' Suggestion)**"
+title: "Excitation of unidirectional exchange spin waves by a nanoscale magnetic grating (**Editors' Suggestion**)"
 
 authors:
 - Jilei Chen
