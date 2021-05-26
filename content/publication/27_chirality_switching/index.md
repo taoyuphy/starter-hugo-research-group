@@ -26,7 +26,7 @@ publishDate: "2021-03-18T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Phys. Rev. Research **3**, 013253 (2021)"
+publication: "**Phys. Rev. Research** 3, 013253 (2021)"
 publication_short: ""
 
 abstract: Optical control of chirality in chiral superconductors bears potential for future topological quantum computing applications. When a chiral domain is written and erased by a laser spot, the Majorana modes around the domain can be manipulated on ultrafast timescales. Here we study topological superconductors with two chiral order parameters coupled via light fields by a time-dependent real-space Ginzburg-Landau approach. Continuous optical driving, or the application of supercurrent, hybridizes the two chiral order parameters, allowing one to induce and control the superconducting state beyond what is possible in equilibrium. We show that superconductivity can even be enhanced if the mutual coupling between two order parameters is sufficiently strong. Furthermore, we demonstrate that short optical pulses with spot size larger than a critical one can overcome a counteracting diffusion effect and write, erase, or move chiral domains. Surprisingly, these domains are found to be stable, which might enable optically programmable quantum computers in the future.
