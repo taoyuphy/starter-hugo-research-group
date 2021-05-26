@@ -26,7 +26,7 @@ publishDate: "2021-03-04T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "J. Phys.: Condens. Matter, DOI: 10.1088/1361-648X/abec1a"
+publication: "**J. Phys.: Condens. Matter**, DOI: 10.1088/1361-648X/abec1a"
 publication_short: ""
 
 abstract: Magnonics is a rather young physics research field in nanomagnetism and nanoscience that addresses the use of spin waves (magnons) to transmit, store, and process information. After several papers and review articles published in the last decade, with a steadily increase in the number of citations, we are presenting the first Roadmap on Magnonics. This a collection of 22 sections written by leading experts in this field who review and discuss the current status but also present their vision of future perspectives. Today, the principal challenges in applied magnonics are the excitation of sub-100 nm wavelength magnons, their manipulation on the nanoscale and the creation of sub-micrometre devices using low-Gilbert damping magnetic materials and the interconnections to standard electronics. In this respect, magnonics offers lower energy consumption, easier integrability and compatibility with CMOS structure, reprogrammability, shorter wavelength, smaller device features, anisotropic properties, negative group velocity, non-reciprocity and efficient tunability by various external stimuli to name a few. Hence, despite being a young research field, magnonics has come a long way since its early inception. This Roadmap represents a milestone for future emerging research directions in magnonics and hopefully it will be followed by a series of articles on the same topic.
