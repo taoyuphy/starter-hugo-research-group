@@ -26,7 +26,7 @@ publishDate: "2021-04-25T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Chirality, magnetism, and magnetoelectricity: Separate phenomena and joint effects in metamaterial structures, Edited by E. Kamenetskii (Springer International Publishing, 2021) "
+publication: "**Chirality, magnetism, and magnetoelectricity: Separate phenomena and joint effects in metamaterial structures**, Edited by E. Kamenetskii (Springer International Publishing, 2021) "
 publication_short: ""
 
 abstract: We review and extend the theory of chiral pumping of spin waves by magnetodipolar stray fields that generate unidirectional spin currents and asymmetric magnon densities. We illustrate the physical principles by two kinds of chiral excitations of magnetic films, i.e., by the evanescent Oersted field of a narrow metallic stripline with an AC current bias and a magnetic nanowire under ferromagnetic resonance.
