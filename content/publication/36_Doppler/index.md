@@ -25,7 +25,7 @@ publishDate: "2021-03-30T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Phys. Rev. Lett. **126**, 137202 (2021)"
+publication: "**Phys. Rev. Lett.** 126, 137202 (2021)"
 publication_short: ""
 
 abstract: The Doppler shift of the quasiparticle dispersion by charge currents is responsible for the critical supercurrents in superconductors and instabilities of the magnetic ground state of metallic ferromagnets. Here we predict an analogous effect in thin films of magnetic insulators in which microwaves emitted by a proximity stripline generate coherent chiral spin currents that cause a Doppler shift in the magnon dispersion. The spin-wave instability is suppressed by magnon-magnon interactions that limit spin currents to values close to but below the threshold for the instability. The spin current limitations by the backaction of magnon currents on the magnetic order should be considered as design parameters in magnonic devices.
