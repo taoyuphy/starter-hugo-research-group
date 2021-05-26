@@ -56,7 +56,7 @@ publishDate: "2020-12-28T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Nano Res. (2020), https://doi.org/10.1007/s12274-020-3251-5"
+publication: "**Nano Res**. (2020), https://doi.org/10.1007/s12274-020-3251-5"
 publication_short: ""
 
 abstract: Nanomagnets are widely used to store information in non-volatile spintronic devices. Spin waves can transfer information with low-power consumption as their propagations are independent of charge transport. However, to dynamically couple two distant nanomagnets via spin waves remains a major challenge for magnonics. Here we experimentally demonstrate coherent coupling of two distant Co nanowires by fast propagating spin waves in an yttrium iron garnet thin film with sub-50 nm wavelengths. Magnons in two nanomagnets are unidirectionally phase-locked with phase shifts controlled by magnon spin torque and spin-wave propagation. The coupled system is finally formulated by an analytical theory in terms of an effective non-Hermitian Hamiltonian. Our results are attractive for analog neuromorphic computing that requires unidirectional information transmission.
