@@ -14,7 +14,7 @@ design:
   columns: '1'
 advanced:
   css_style:
-  css_class: cls
+  css_class: welcome_cls
 ---
 
 We are a theoretical group studying the dynamics of quantum materials: <br />1) Magnetism: quasiparticle chiral interactions; nonlinear magnon transport. <br />2) Spintronics: many-body spin dynamics; various spin phenomena including spin Hall, spin pumping, and Seebeck effects. <br />3) Unconventional superconductivity: Keldysh formalism for ultrafast engineering; superconducting mechanism in moire system. <br />4) Semiconductor optics: valleytronics in monolayer TMDs; optical engineering of quantum states.
