@@ -13,9 +13,7 @@ location: Warsaw Poland
   #country: Spain
 
 summary: Tao and Gerrit are invited to present their works about Chiral Spin Cavitronics with Magnetic Insulators on META 2021 conference.
-abstract: "Spin cavitronics addresses the coupling of phononic, magnonic, or photonic cavity modes with spin excitations
-in magnetic structures and devices. In this talk, I will introduced and review recent theoretical and experimental
-work on the spin cavitronics of yttrium iron garnet (YIG) with emphasis on the role of chirality."
+abstract: "Spin cavitronics addresses the coupling of phononic, magnonic, or photonic cavity modes with spin excitations in magnetic structures and devices. In this talk, I will introduced and review recent theoretical and experimental work on the spin cavitronics of yttrium iron garnet (YIG) with emphasis on the role of chirality."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
