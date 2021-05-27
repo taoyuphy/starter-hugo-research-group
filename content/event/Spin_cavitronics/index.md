@@ -12,7 +12,7 @@ location: Warsaw Poland
   #postcode: '94305'
   #country: Spain
 
-summary: Tao and Gerrit are invited to present their works about Chiral Spin Cavitronics with Magnetic Insulators on META 2021 conference.
+summary: Tao and Gerrit are invited to present their works about **Chiral Spin Cavitronics with Magnetic Insulators** on META 2021 conference.
 abstract: "To be available"
 
 # Talk start and end times.
