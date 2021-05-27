@@ -48,7 +48,7 @@ publishDate: "2019-09-20T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Phys. Rev. B **100**, 104427 (2019)"
+publication: "**Phys. Rev. B** 100, 104427 (2019)"
 publication_short: ""
 
 abstract: Magnon spintronics is a prosperous field that promises beyond-CMOS technology based on elementary excitations of the magnetic order that act as information carriers for future computational architectures. Unidirectional propagation of spin waves is key to the realization of magnonic logic devices. However, previous efforts to enhance the magnetostatic surface spin wave nonreciprocity did not realize (let alone control) purely unidirectional propagation. Here we experimentally demonstrate excitation of unidirectional exchange spin waves by a nanoscale magnetic grating consisting of Co nanowires fabricated on an ultrathin yttrium iron garnet film. We explain and model the nearly perfect unidirectional excitation by the chirality of the magneto-dipolar interactions between the Kittel mode of the nanowires and the exchange spin waves of the film. Reversal of the magnetic configurations of film and nanowire array from parallel to antiparallel changes the direction of the excited spin waves. Our results raise the prospect of a chiral magnonic logic without the need to involve fragile surface states.

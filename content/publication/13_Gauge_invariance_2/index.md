@@ -22,7 +22,7 @@ publishDate: "2017-10-31T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Phys. Rev. B **96**, 155312 (2017)"
+publication: "**Phys. Rev. B** 96, 155312 (2017)"
 publication_short: ""
 
 abstract: We investigate the quasiparticle and condensate dynamics in response to the terahertz (THz) optical pulses in the strong spin-orbit-coupled (s+p)-wave superconducting semiconductor quantum wells by using the gauge-invariant optical Bloch equations in the quasiparticle approximation. Both the dynamics of triplet and singlet superconductivity are studied in response to the THz optical pulses. Specifically, for the triplet superconductivity, we predict that in the (s+p)-wave superconducting (100) quantum wells, with the vector potential parallel to the quantum wells, the optical field can cause the total spin polarization of Cooper pairs, oscillating with the frequency of the optical field. The direction of the total Cooper-pair spin polarization is shown to be parallel to the vector potential. For the singlet superconductivity, we show that due to the large spin-orbit coupling in InSb (100) quantum wells, there exist two Fermi surfaces including the inner and outer ones. In this specific configuration, the superconducting momentum can be tuned to be larger than the inner Fermi momentum but smaller than the outer one. We find that in this regime, the dynamics of the Higgs mode and charge imbalance shows different features in comparison with the conventional s-wave case.

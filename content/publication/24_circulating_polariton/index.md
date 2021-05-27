@@ -26,7 +26,7 @@ publishDate: "2020-08-18T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Phys. Rev. B 102, 064416 (2020)"
+publication: "**Phys. Rev. B** 102, 064416 (2020)"
 publication_short: ""
 
 abstract: We predict magnon-polariton states circulating unidirectionally in a microwave cavity when loaded by a number of magnets on special lines. Realistic finite-element numerical simulations, including dielectric, time-dependent, and nonlinear effects, confirm the validity of the approximations of a fully analytical input-output model. We find that a phased antenna array can focus all power into a coherent microwave beam with controlled direction and an intensity that scales with the number of magnets.

@@ -26,7 +26,7 @@ publishDate: "2019-12-11T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Phys. Rev. Lett. 123, 247202 (2019)"
+publication: "**Phys. Rev. Lett.** 123, 247202 (2019)"
 publication_short: ""
 
 abstract: We report a theory for the coherent and incoherent chiral pumping of spin waves into thin magnetic films through the dipolar coupling with a local magnetic transducer, such as a nanowire. The ferromagnetic resonance of the nanowire is broadened by the injection of unidirectional spin waves that generates a nonequilibrium magnetization in only half of the film. A temperature gradient between the local magnet and film leads to a unidirectional flow of incoherent magnons, i.e., a chiral spin Seebeck effect.

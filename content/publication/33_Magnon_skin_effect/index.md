@@ -32,7 +32,7 @@ publishDate: "2020-03-11T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Phys. Rev. Lett. 124, 107202 (2020)"
+publication: "**Phys. Rev. Lett.** 124, 107202 (2020)"
 publication_short: ""
 
 abstract: We report strong chiral coupling between magnons and photons in microwave waveguides that contain chains of small magnets on special lines. Large magnon accumulations at one edge of the chain emerge when exciting the magnets by a phased antenna array. This mechanism holds the promise of new functionalities in nonlinear and quantum magnonics.

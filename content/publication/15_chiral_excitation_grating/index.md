@@ -28,7 +28,7 @@ publishDate: "2019-04-16T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Phys. Rev. B **99**, 134424 (2019)"
+publication: "**Phys. Rev. B** 99, 134424 (2019)"
 publication_short: ""
 
 abstract: We theoretically investigate the interlayer dipolar and exchange couplings between an array of metallic magnetic nanowires grown on top of an extended ultrathin yttrium iron garnet film. The calculated interlayer dipolar coupling agrees with observed anticrossings [Chen et al., Phys. Rev. Lett. 120, 217202 (2018)], concluding that the interlayer exchange coupling is suppressed by a spacer layer between the nanowires and film for Ni, but not necessarily for Co. The Kittel mode in the nanowire array couples chirally to spin waves in the film, even though Damon-Eshbach surface modes do not exist. The chirality can be suppressed by a strong interlayer exchange coupling.
