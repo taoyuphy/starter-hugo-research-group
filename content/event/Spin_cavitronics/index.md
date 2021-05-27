@@ -1,5 +1,5 @@
 ---
-title: Invited Talk "Chiral Spin Cavitronics with Magnetic Insulators" on META 2021 (The 11th International Conference on Metamaterials, Photonic Crystals and Plasmonics), Warsaw Poland, July 20-23 (2021)
+title: Invited Talk "**Chiral Spin Cavitronics with Magnetic Insulators**" on META 2021 (The 11th International Conference on Metamaterials, Photonic Crystals and Plasmonics), Warsaw Poland, July 20-23 (2021)
 
 event: META 2021 
 event_url: https://metaconferences.org/ocs/index.php/META21/META21#.YK8w3Kgzbi0
