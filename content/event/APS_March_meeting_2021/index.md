@@ -14,7 +14,7 @@ location: Warsaw Poland
   #country: Spain
 
 summary: Tao gave a talk about his works on superconductivity of twisted bilayer graphene on APS March Meeting 2021 conference.
-abstract: "Recent measurements of the resistivity in magic-angle twisted bilayer graphene near the superconducting transition temperature show two-fold anisotropy, or nematicity, when changing the direction of an in-plane magnetic field. This was interpreted as strong evidence for exotic nematic superconductivity instead of the widely proposed chiral superconductivity. Counter-intuitively, we demonstrate that in two-dimensional chiral superconductors the in-plane magnetic field can hybridize the two chiral superconducting order parameters to induce a phase that shows nematicity for the paraconductivity in the transport response, consistent with experiment in twisted bilayer graphene. We therefore suggest that, surprisingly, the nematic response reported experimentally could provide experimental support for, rather than against, a chiral superconducting state. The chiral topological superconductors host chiral Cooper pairs and support Majorana modes at the edge. We proceed to show that a laser field can induce the interaction between two kinds of chiral Copper pairs and renders a switching of the chirality of superconductors and optically writing of the Majorana modes, which is promising in the future quantum computing based on the candidates including twisted bilayer graphene and heavy fermion system."
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
