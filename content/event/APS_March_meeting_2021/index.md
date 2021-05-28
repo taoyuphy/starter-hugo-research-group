@@ -25,7 +25,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-05-27"
 
-authors: [Tao Yu, Gerrit E. W. Bauer] 
+authors: [Tao Yu] 
 tags: []
 
 # Is this a featured talk? (true/false)
