@@ -36,8 +36,8 @@ image:
   focal_point: Right
 
 #url_code: ""
-#url_pdf: ""
-url_slides: ""
+url_pdf: "APS_March_meeting_2021.pdf"
+#url_slides: ""
 #url_video: ""
 
 # Markdown Slides (optional).
