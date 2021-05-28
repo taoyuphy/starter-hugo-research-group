@@ -13,7 +13,7 @@ location: Warsaw Poland
   #country: Spain
 
 summary: Tao gave a talk about his works on superconductivity of twisted bilayer graphene on APS March Meeting 2021 conference.
-abstract: "t"
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -35,8 +35,8 @@ image:
   focal_point: Right
 
 #url_code: ""
-url_pdf: "APS_March_meeting_2021.pdf"
-#url_slides: ""
+#url_pdf: "APS_March_meeting_2021.pdf"
+url_slides: "https://lab.sentef.org/wp-content/uploads/2021/03/Chiral_superconductivity_TBG_APS.pdf"
 #url_video: ""
 
 # Markdown Slides (optional).
