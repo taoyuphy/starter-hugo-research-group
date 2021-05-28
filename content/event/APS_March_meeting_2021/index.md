@@ -4,7 +4,7 @@ title: Attending APS March Meeting with Talk "Pairing Nature and Optical Control
 event: APS March Meeting 2021 
 event_url: http://meetings.aps.org/Meeting/MAR21/Session/X47.11
 
-location: Warsaw Poland
+location: USA (online)
 #address:
   #street: 450 Serra Mall
   #city: San-Sebastian Spain
