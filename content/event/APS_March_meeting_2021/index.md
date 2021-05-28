@@ -2,7 +2,7 @@
 title: Attending APS March Meeting with Talk "Pairing Nature and Optical Control of Superconducting State in Magic-Angle Twisted Bilayer Graphene", USA, March 15-19 (2021)
 
 event: APS March Meeting 2021 
-event_url: https://march.aps.org/
+event_url: http://meetings.aps.org/Meeting/MAR21/Session/X47.11
 
 location: Warsaw Poland
 #address:
