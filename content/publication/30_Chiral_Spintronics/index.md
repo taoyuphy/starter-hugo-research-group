@@ -1,10 +1,11 @@
 ---
-title: "Chiral Spintronics (long review article)"
+title: "Chiral Excitations in Spintronics (long review article)"
 
 authors:
 - yutao
-- Zhaochu Luo
 - Gerrit E. W. Bauer
+- Zhaochu Luo
+
 
 
 date: "2021-05-23T00:00:00Z"
