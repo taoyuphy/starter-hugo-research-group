@@ -1,5 +1,5 @@
 ---
-title: "Cavity magnonics" with video available on Online Spintronics Seminar Series
+title: Collabroatr Yaroslav Blanter present "cavity magnonics" about our works in open cavity online with video available on Online Spintronics Seminar Series
 
 event:  Online Spintronics Seminar Series
 event_url: https://sites.google.com/view/onlinespintronics/home
