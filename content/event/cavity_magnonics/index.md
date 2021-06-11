@@ -12,7 +12,7 @@ location: Online
   #postcode: '94305'
   #country: Spain
 
-summary: Collabroatr Yaroslav Blanter present "cavity magnonics" about our works in open cavity online with video available on Online Spintronics Seminar Series
+summary: Collabroatr Yaroslav Blanter (https://www.taoyulab.com/author/yaroslav-m.-blanter/) present "cavity magnonics" about our works in open cavity online with video available on "Online Spintronics Seminar Series"
 abstract: "A common way to manipulate spin waves (or magnons, their quanta) is by electromagnetic radiation – optical and microwave light. The interaction between light and magnons is strongly enhanced in optical and microwave cavities, and this enhancement, after its experimental realization in the last decade, started the field of cavity magnonics. I will demonstrate a few examples of interesting and unusual phenomena which appear in cavity magnonics. (...) Then I will turn to interaction of magnons with microwave radiation and discuss phenomena such as uni-directional excitation of magnons in thin films, sub- and superradiance and level attraction in open cavities."
 
 # Talk start and end times.
