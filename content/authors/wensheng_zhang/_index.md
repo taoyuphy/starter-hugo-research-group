@@ -61,6 +61,6 @@ highlight_name: false
 user_groups:
 - Grad Students
 ---
-Wensheng Zhang is a graduate student in the School of Physics at Huazhong University of Science and Technology (Wuhan, China). He focuses on interesting theoretical problems among the magnetism and spintronics. 
+Wensheng Zhang (张文生) is a graduate student in the School of Physics at Huazhong University of Science and Technology (Wuhan, China). He focuses on interesting theoretical problems among the magnetism and spintronics. 
 
 
