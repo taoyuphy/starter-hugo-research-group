@@ -14,8 +14,7 @@ organizations:
   url: "http://phys.hust.edu.cn/index.htm"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include unconventional superconductivity
-and quantum transport in low-dimensional electronics.
+bio: My research interests include unconventional superconductivity and quantum transport in low-dimensional electronics.
 
 interests:
 - Unconventional superconductivity
@@ -62,7 +61,6 @@ highlight_name: false
 user_groups:
 - Grad Students
 ---
-Chengyuan Cai is a graduate student in the School of Physics at Huazhong University of Science and Technology (Wuhan, China). He focuses on interesting theoretical problems among the unconventional superconductivity
-and quantum transport in low-dimensional electronics. 
+Chengyuan Cai is a graduate student in the School of Physics at Huazhong University of Science and Technology (Wuhan, China). He focuses on interesting theoretical problems among the unconventional superconductivity and quantum transport in low-dimensional electronics. 
 
 
