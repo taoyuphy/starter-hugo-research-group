@@ -6,7 +6,7 @@ title: Wensheng Zhang
 superuser: true
 
 # Role/position
-role: Graduate students
+role: Grad Students
 
 # Organizations/Affiliations
 organizations:
@@ -59,7 +59,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduates
+- Grad Students
 ---
 Wensheng Zhang is a graduate student in the School of Physics at Huazhong University of Science and Technology (Wuhan, China). He focuses on interesting theoretical problems among the magnetism and spintronics. 
 
