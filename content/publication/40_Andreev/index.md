@@ -13,7 +13,7 @@ authors:
 - Wei Han
 
 
-date: "2020-03-11T00:00:00Z"
+date: "2021-09-30T00:00:00Z"
 doi: ""
 
 author_notes:
@@ -38,7 +38,7 @@ publishDate: "2021-10-20T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Science Advances**  (2021)"
+publication: "**Science Advances** in press (2021)"
 publication_short: ""
 
 abstract: Interfaces between materials with differently ordered phases present unique opportunities for exotic physical properties, especially the interplay between ferromagnetism and superconductivity in the ferromagnet/superconductor heterostructures. The investigation of zero- and π-junctions has been of particular interest for both fundamental physical science and emerging technologies. Here, we report the experimental observation of giant oscillatory Gilbert damping in the superconducting Nb/NiFe/Nb junctions with respect to the NiFe thickness. This observation suggests an unconventional spin pumping and relaxation via zero-energy Andreev bound states that exist only in the Nb/NiFe/Nb pi-junctions, but not in the Nb/NiFe/Nb zero-junctions. Our findings could be
