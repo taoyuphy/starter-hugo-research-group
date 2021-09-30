@@ -10,8 +10,8 @@ role: Visitors
 
 # Organizations/Affiliations
 organizations:
-- name: School of Physics, Huazhong University of Science and Technology
-  url: "http://phys.hust.edu.cn/index.htm"
+- name: School of Physics and Electronics, Hunan University
+  url: "http://spe.hnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include non-Hermitian topology, phonon transport, and quantum optics.
