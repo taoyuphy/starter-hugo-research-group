@@ -4,7 +4,7 @@ title: Presentation "Chirality of Superconducting State as Pseudospin Physics" a
 event:  Kavli ITS-IOP 2021 Hybrid Workshop on Multidisciplinary Spintronic
 #event_url: https://sites.google.com/view/onlinespintronics/home
 
-location: Online
+location: In Person and Online
 #address:
   #street: 450 Serra Mall
   #city: San-Sebastian Spain
