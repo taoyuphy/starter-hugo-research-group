@@ -1,5 +1,5 @@
 ---
-title: "Giant oscillatory Gilbert damping in superconductor/ferromagnet/superconductor junctions"
+title: "Giant oscillatory Gilbert damping in superconductor-ferromagnet-superconductor junctions"
 
 authors:
 - Yunyan Yao
