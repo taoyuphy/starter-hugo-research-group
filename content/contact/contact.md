@@ -29,4 +29,4 @@ design:
   columns: '1'
 ---
 
-There are multiple master and PhD graduate students (2), visiting student(1), postdoctoral researchers (2), and research associate position openings in Yu`s group. Please contact Prof. Yu via taoyuphy@mail.ustc.edu.cn if you have strong interest in condensed matter theory and are interested in joining the group. We provide competitive salary and comfortable work conditions.
+There are multiple master and PhD graduate students (2), visiting student(1), postdoctoral researchers (2), and research associate position openings in Yu`s group. Please contact Prof. Yu via taoyuphy@hust.edu.cn if you have strong interest in condensed matter theory and are interested in joining the group. We provide competitive salary and comfortable work conditions.
