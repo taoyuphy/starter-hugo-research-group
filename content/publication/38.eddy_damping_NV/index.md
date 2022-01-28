@@ -31,7 +31,7 @@ publishDate: "2021-06-16T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Advanced Quantum Technologies 4, 2100094 (2021)"
+publication: "**Advanced Quantum Technologies** 4, 2100094 (2021)"
 publication_short: ""
 
 abstract: Spin waves in magnetic insulators are low-damping signal carriers that could enable a new generation of spintronic devices. The excitation, control, and detection of spin waves by metal electrodes is crucial for interfacing these devices to electrical circuits. It is therefore important to understand metal-induced damping of spin-wave transport, but characterizing this process requires access to the underlying magnetic films. Here we show that spins in diamond enable imaging of spin waves that propagate underneath metals in magnetic insulators, and then use this capability to reveal a 100-fold increase in spin-wave damping. By analyzing spin-wave-induced currents in the metal, we derive an effective damping parameter that matches these observations well. We furthermore detect buried scattering centers, highlighting the technique's power for assessing spintronic device quality. Our results open new avenues for studying metal - spin-wave interaction and provide access to interfacial processes such as spin-wave injection via the spin-Hall effect.
