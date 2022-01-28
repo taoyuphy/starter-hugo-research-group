@@ -38,7 +38,7 @@ publishDate: "2021-09-30T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Science Advances** in press (2021)"
+publication: "**Science Advances** 7, eabh3686 (2021)"
 publication_short: ""
 
 abstract: Interfaces between materials with differently ordered phases present unique opportunities for exotic physical properties, especially the interplay between ferromagnetism and superconductivity in the ferromagnet/superconductor heterostructures. The investigation of zero- and pi-junctions has been of particular interest for both fundamental physical science and emerging technologies. Here, we report the experimental observation of giant oscillatory Gilbert damping in the superconducting Nb/NiFe/Nb junctions with respect to the NiFe thickness. This observation suggests an unconventional spin pumping and relaxation via zero-energy Andreev bound states that exist only in the Nb/NiFe/Nb pi-junctions, but not in the Nb/NiFe/Nb zero-junctions. Our findings could be important for further exploring the exotic physical properties of ferromagnet/superconductor heterostructures, and potential applications of ferromagnet pi-junctions in quantum computing, such as half quantum flux qubits.
@@ -58,7 +58,7 @@ featured: false
 
 links:
 - name: Paper Link
-  #url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.107202
+  url: https://www.science.org/doi/full/10.1126/sciadv.abh3686
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 
 # Featured image
