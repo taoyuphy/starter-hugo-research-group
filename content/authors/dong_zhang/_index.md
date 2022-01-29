@@ -6,7 +6,7 @@ title: Bowen Zeng
 superuser: true
 
 # Role/position
-role: Undergraduate
+role: Undergraduate Students
 
 # Organizations/Affiliations
 organizations:
