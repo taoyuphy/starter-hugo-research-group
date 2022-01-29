@@ -6,7 +6,7 @@ title: Bowen Zeng
 superuser: true
 
 # Role/position
-role: Visitors
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
