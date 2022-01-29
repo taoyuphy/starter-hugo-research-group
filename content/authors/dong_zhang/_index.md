@@ -6,7 +6,7 @@ title: Dong Chen
 superuser: true
 
 # Role/position
-role: Undergraduate Students
+role: Undergraduate
 
 # Organizations/Affiliations
 organizations:
