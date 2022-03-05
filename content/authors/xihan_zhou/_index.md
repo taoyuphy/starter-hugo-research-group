@@ -14,10 +14,10 @@ organizations:
   url: "http://phys.hust.edu.cn/index.htm"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include unconventioanl superconductivity and exciton dynamics in low-dimensional materials.
+bio: My research interests include unconventional superconductivity and exciton dynamics in low-dimensional materials.
 
 interests:
-- Unconventioanl superconductivity  
+- Unconventional superconductivity  
 - Exciton dynamics in low-dimensional materials
 
 education:
@@ -64,6 +64,6 @@ highlight_name: false
 user_groups:
 - Grad Students
 ---
-Xihan Zhou (周熙涵) is a graduate student in the School of Physics at Huazhong University of Science and Technology (Wuhan, China). He focuses on interesting theoretical problems among unconventioanl superconductivity and exciton dynamics in low-dimensional materials. 
+Xihan Zhou (周熙涵) is a graduate student in the School of Physics at Huazhong University of Science and Technology (Wuhan, China). He focuses on interesting theoretical problems among unconventional superconductivity and exciton dynamics in low-dimensional materials. 
 
 
