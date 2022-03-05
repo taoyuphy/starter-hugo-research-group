@@ -65,6 +65,6 @@ highlight_name: false
 user_groups:
 - Grad Students
 ---
-Chengyuan Cai (蔡成渊) is a graduate student in the School of Physics at Huazhong University of Science and Technology (Wuhan, China). He focuses on interesting theoretical problems among spin transfer between quasiparticles and quantum transport in low-dimensional electronics. 
+Chengyuan Cai (蔡成渊) is a graduate student in the School of Physics at Huazhong University of Science and Technology (Wuhan, China). He focuses on interesting theoretical problems among spin transfer between quasiparticles, chiral interaction driven spin phenomena, and quantum transport in low-dimensional electronics. 
 
 
