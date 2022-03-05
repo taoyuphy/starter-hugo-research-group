@@ -14,10 +14,11 @@ organizations:
   url: "http://phys.hust.edu.cn/index.htm"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Magnetism and Spintronics.
+bio: My research interests include Magnetism, Magnon quanta for quantum information, and Spintronics.
 
 interests:
 - Magnetism
+- Magnon quanta for quantum information
 - Spintronics
 
 education:
@@ -61,6 +62,6 @@ highlight_name: false
 user_groups:
 - Grad Students
 ---
-Wensheng Zhang (张文生) is a graduate student in the School of Physics at Huazhong University of Science and Technology (Wuhan, China). He focuses on interesting theoretical problems among the magnetism and spintronics. 
+Wensheng Zhang (张文生) is a graduate student in the School of Physics at Huazhong University of Science and Technology (Wuhan, China). He focuses on interesting theoretical problems among the magnetism, magnon quanta for quantum information, and spintronics. 
 
 
