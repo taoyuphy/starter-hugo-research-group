@@ -14,11 +14,11 @@ organizations:
   url: "http://phys.hust.edu.cn/index.htm"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include unconventional superconductivity and quantum transport in low-dimensional electronics.
+bio: My research interests include unconventional superconductivity and exciton dynamics in low-dimensional materials.
 
 interests:
 - Unconventional superconductivity
-- Quantum transport in low-dimensional electronics
+- Exciton dynamics in low-dimensional materials
 
 education:
   courses:
