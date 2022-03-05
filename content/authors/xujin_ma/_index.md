@@ -14,7 +14,7 @@ organizations:
   url: "http://phys.hust.edu.cn/index.htm"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Spin transport in magnetic materials and quantum transport in low-dimensional electronics.
+bio: My research interests include spin transport in magnetic materials and quantum transport in low-dimensional electronics.
 
 interests:
 - Spin transport in magnetic materials and magnetic heterostructures
@@ -64,6 +64,6 @@ highlight_name: false
 user_groups:
 - Grad Students
 ---
-Xujin Ma (马徐进) is a graduate student in the School of Physics at Huazhong University of Science and Technology (Wuhan, China). He focuses on interesting theoretical problems among unconventional superconductivity and quantum transport in low-dimensional electronics. 
+Xujin Ma (马徐进) is a graduate student in the School of Physics at Huazhong University of Science and Technology (Wuhan, China). He focuses on interesting theoretical problems among spin transport in magnetic materials and quantum transport in low-dimensional electronic. 
 
 
