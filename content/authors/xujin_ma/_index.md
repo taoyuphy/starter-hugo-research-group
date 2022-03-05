@@ -14,7 +14,7 @@ organizations:
   url: "http://phys.hust.edu.cn/index.htm"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include spin transport in magnetic materials and quantum transport in low-dimensional electronics.
+bio: My research interests include spin transport in magnetic materials, various spin phenomena, and quantum transport in low-dimensional electronics.
 
 interests:
 - Spin transport in magnetic materials and magnetic heterostructures
