@@ -64,6 +64,6 @@ highlight_name: false
 user_groups:
 - Grad Students
 ---
-Xujin Ma (马徐进) is a graduate student in the School of Physics at Huazhong University of Science and Technology (Wuhan, China). He focuses on interesting theoretical problems among spin transport in magnetic materials, various spin phenomena, and quantum transport in low-dimensional electronic. 
+Shuaiqi Chang (常帅旗) is a graduate student in the School of Physics at Huazhong University of Science and Technology (Wuhan, China). He focuses on interesting theoretical problems among spin transport in magnetic materials, various spin phenomena, and quantum transport in low-dimensional electronic. 
 
 
