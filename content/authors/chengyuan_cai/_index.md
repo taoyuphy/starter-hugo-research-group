@@ -23,7 +23,7 @@ interests:
 
 education:
   courses:
-  - course: Master in Condensed Matter Theory
+  - course: PhD student in Condensed Matter Theory
     institution: Department of Physics, University of Science and Technology of China
     year: 2021.09-present
   - course: Bachelor in Physics
