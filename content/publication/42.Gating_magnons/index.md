@@ -23,7 +23,7 @@ publishDate: "2022-01-24T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Phys. Rev. Lett. 129, 117201 (2022)"
+publication: "**Phys. Rev. Lett.** 129, 117201 (2022)"
 publication_short: ""
 
 abstract: Electrostatic gating confines and controls the transport of electrons in integrated circuits. Magnons, the quanta of spin waves of the magnetic order, are promising alternative information carriers, but difficult to gate. Here we report that superconducting strips on top of thin magnetic films can totally reflect magnons by its diamagnetic response to the magnon stray fields. The induced large frequency shifts unidirectionally blocks the magnons propagating normal to the magnetization. Two superconducting gates parallel to the magnetization create a magnonic cavity. The option to gate coherent magnons adds functionalities to magnonic devices, such as reprogrammable logical devices and increased couplings to other degrees of freedom.
