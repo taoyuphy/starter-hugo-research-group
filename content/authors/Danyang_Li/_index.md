@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wensheng Zhang
+title: Danyang Li
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,9 +23,9 @@ interests:
 
 education:
   courses:
-  - course: Master in Condensed Matter Theory
+  - course: PhD student in Condensed Matter Theory
     institution: Department of Physics, University of Science and Technology of China
-    year: 2021.09-present
+    year: 2023.09-present
   
 
 # Social/Academic Networking
@@ -62,6 +62,6 @@ highlight_name: false
 user_groups:
 - Grad Students
 ---
-Wensheng Zhang (张文生) is a graduate student in the School of Physics at Huazhong University of Science and Technology (Wuhan, China). He focuses on interesting theoretical problems among the magnetism, magnon quanta for quantum information, and spintronics. 
+Danyang Li (李丹阳) is a graduate student in the School of Physics at Huazhong University of Science and Technology (Wuhan, China). She focuses on interesting theoretical problems among the magnetism, magnon quanta for quantum information, and spintronics. 
 
 
