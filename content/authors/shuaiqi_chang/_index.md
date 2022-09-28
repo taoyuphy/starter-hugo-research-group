@@ -24,7 +24,7 @@ education:
   courses:
   - course: Master in Condensed Matter Theory
     institution: Department of Physics, University of Science and Technology of China
-    year: 2022.09-present
+    year: 2023.09-present
   - course: Bachelor in Physics
     institution: Department of Physics, Nanjing University of Aeronautics and Astronautics
     year: 2019.09-2023.06  
