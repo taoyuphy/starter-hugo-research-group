@@ -5,7 +5,7 @@ authors:
 - yutao
 - Gerrit E. W. Bauer
 
-date: "2022-01-24T00:00:00Z"
+date: "2022-09-07T00:00:00Z"
 doi: ""
 
 author_notes:
@@ -20,10 +20,10 @@ publishDate: "2022-01-24T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv:2201.09532"
+publication: "Phys. Rev. Lett. 129, 117201 (2022)"
 publication_short: ""
 
 abstract: Electrostatic gating confines and controls the transport of electrons in integrated circuits. Magnons, the quanta of spin waves of the magnetic order, are promising alternative information carriers, but difficult to gate. Here we report that superconducting strips on top of thin magnetic films can totally reflect magnons by its diamagnetic response to the magnon stray fields. The induced large frequency shifts unidirectionally blocks the magnons propagating normal to the magnetization. Two superconducting gates parallel to the magnetization create a magnonic cavity. The option to gate coherent magnons adds functionalities to magnonic devices, such as reprogrammable logical devices and increased couplings to other degrees of freedom.
@@ -43,7 +43,7 @@ featured: false
 
 links:
 - name: Paper Link
-  url: https://arxiv.org/abs/2201.09532
+  url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.117201
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 
 # Featured image
