@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xujin Ma
+title: Shuaiqi Chang
 
 # Is this the primary user of the site?
 superuser: true
@@ -26,8 +26,8 @@ education:
     institution: Department of Physics, University of Science and Technology of China
     year: 2022.09-present
   - course: Bachelor in Physics
-    institution: Department of Physics, University of Science and Technology of China
-    year: 2017.09-2021.06  
+    institution: Department of Physics, Nanjing University of Aeronautics and Astronautics
+    year: 2019.09-2023.06  
   
 
 # Social/Academic Networking
