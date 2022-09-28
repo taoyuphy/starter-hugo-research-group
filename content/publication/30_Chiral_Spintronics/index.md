@@ -4,6 +4,7 @@ title: "Chirality as Generalized Spin-Orbit Interaction in Spintronics"
 authors:
 - yutao
 - Zhaochu Luo
+- Gerrit E. W. Bauer
 
 
 
