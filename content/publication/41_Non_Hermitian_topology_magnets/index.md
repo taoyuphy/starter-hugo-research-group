@@ -24,7 +24,7 @@ publishDate: "2022-05-02T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Phys. Rev. B**105, L180401 (2022)****"
+publication: "**Phys. Rev. B** 105, L180401 (2022)"
 publication_short: ""
 
 abstract: Non-Hermitian skin effect was observed in one-dimensional systems with short-range chiral interaction. Long-range chiral interaction mediated by traveling waves also favors the accumulation of energy, but has not yet showed non-Hermitian topology. Here we find that the strong interference brought by the wave propagation is detrimental for accumulation. By suppression of interference via the damping of traveling waves, we predict the non-Hermitian skin effect of magnetic excitation in a periodic array of magnetic nanowires that are coupled chirally via spin waves of thin magnetic films. The local excitation of a wire at one edge by weak microwaves of magnitude muT leads to a considerable spin-wave amplitude at the other edge, i.e. a remarkable functionality useful for sensitive, non-local, and non-reciprocal detection of microwaves.
