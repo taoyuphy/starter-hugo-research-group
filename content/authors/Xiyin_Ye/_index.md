@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiyin Ye
+title: Danyang Li
 
 # Is this the primary user of the site?
 superuser: true
@@ -62,6 +62,6 @@ highlight_name: false
 user_groups:
 - Grad Students
 ---
-Xiyin Ye (叶茜茵) is a graduate student in the School of Physics at Huazhong University of Science and Technology (Wuhan, China). She focuses on interesting theoretical problems among the magnetism, magnon quanta for quantum information, and spintronics. 
+Danyang Li (李丹阳) is a graduate student in the School of Physics at Huazhong University of Science and Technology (Wuhan, China). She focuses on interesting theoretical problems among the magnetism, magnon quanta for quantum information, and spintronics. 
 
 
